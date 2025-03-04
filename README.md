@@ -4,7 +4,6 @@
 This project provides a Python-based framework for simulating various types of automata using configuration files. The system is designed to support four types of automata commonly used in computational theory:
 
 - Deterministic Finite Automata (**DFA**)
-- Non-Deterministic Finite Automata (**NFA**)
 - Pushdown Automata (**PDA**)
 - Context-Free Grammar (**CFG**)
 
